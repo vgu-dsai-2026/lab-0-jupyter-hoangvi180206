@@ -5,6 +5,7 @@
 1. Create a GitHub account if you don't have one via <https://GitHub.com/signup>
 1. (recommended) Setup GitHub with VGU or education email for Education benefits.
 
+
 ## GitHub Classroom
 
 1. Join the class and identify yourself.
